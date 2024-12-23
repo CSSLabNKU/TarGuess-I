@@ -1,15 +1,15 @@
 # TarGuess-I
 Code for our 2016 ACM CCS Paper "Targeted Online Password Guessing: An Underestimated Threat"
 
-<b>If you decide to use our code, please cite our paper 🤝.</b>
-
 We do not upload the source files including personal identifiable information, treating each individual account as confidential, stroing and processing them on computers not linked to the Internet.
 
 While these datasets might be already explited by attackers for misconduct, our use is helpful for security administrators/users to measure password strength and prevent weak ones.
 
 ### Research Paper
 
-The paper is available at the [ACM Digital Library](https://dl.acm.org/doi/10.1145/2976749.2978339). You can cite our work with the following BibTeX entry:
+The paper is available at the [ACM Digital Library](https://dl.acm.org/doi/10.1145/2976749.2978339).
+
+<b>If you use any part of our codes, you are committed to cite the following paper:</b>
 
 ```latex
 @inproceedings{wang2016targuess,
